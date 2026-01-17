@@ -15,4 +15,9 @@ body {
 .card {
     width: 450px;
     background-color: aqua;
+    color: var(--desaturated-blue);
+}
+
+.child {
+    color: red;
 }
