@@ -1,2 +1,2 @@
-#this is a frontend based repo
+# this is a frontend based repo
 only html and css are used
