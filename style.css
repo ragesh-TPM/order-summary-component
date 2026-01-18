@@ -23,6 +23,7 @@ body {
     width: 450px;
     background-color: white;
     color: var(--desaturated-blue);
+    border-radius: 20px;
 }
 
 .title {
@@ -33,4 +34,8 @@ body {
 
 .container {
     padding: 30px;
+}
+
+.order-description {
+    line-height: 25px;
 }
